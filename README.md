@@ -1,5 +1,5 @@
 # USGS Data Science tutorial for Git and GitHub workflow
 
-*This repository contains the issues and starting content to teach the DS fork-and-pull style workflow for a specific participant.*
+![congrats](https://user-images.githubusercontent.com/13220910/81443707-86452d80-913b-11ea-9ad4-7be24ff64c39.gif)
 
-**TO START:** Go to the issues tab and click on issue #1 (the bottom one; they are listed in reverse order). Each issue will tell you what to do to complete it and then give instructions for proceeding. Ignore the labels associated with issues, those are used to assist the underlying automation that guides you through the process.
+Congratulations - you completed the tutorial! This canonical repository will eventually be deleted, but your fork will continue to exist. If you would like this congratulatory page to appear on your fork, pull from upsteam (`git pull upstream main`) and then push to your fork (`git push origin main`).
